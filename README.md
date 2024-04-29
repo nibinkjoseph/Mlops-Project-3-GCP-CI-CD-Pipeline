@@ -14,3 +14,13 @@
    + Enable it
 
 ## Step 6: Search for Google container registry api     
+## Step 7 : Search for Cloud Run Admin API
+
+## Step 8 : Search cloud source repositories
+
+Create a repository: jan24-devops
+
+https://github.com/03sarath/GCP-CI-CD
+
+Clone the repository
+git clone https://github.com/03sarath/GCP-CI-CD
